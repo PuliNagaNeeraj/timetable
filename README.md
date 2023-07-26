@@ -47,7 +47,7 @@ Execute the program
             </tr>
             <tr>
                 <th bgcolor="yellow">12-1</th>
-                <th colspan="5" align="center" bgcolor="cyan">LUNCH</th>
+          Naga      <th colspan="5" align="center" bgcolor="cyan">LUNCH</th>
             </tr>
             <tr>
                 <th bgcolor="yellow">1-3</th>
@@ -108,5 +108,5 @@ Execute the program
 
 # OUPUT
 ### timetable
-![timetable](timetable.png)
+![timetable](timetable1.png)
 
